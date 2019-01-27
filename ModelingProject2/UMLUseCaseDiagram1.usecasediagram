@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="0c454116-ba0f-40d5-bcc1-41958a570f43" name="UMLUseCaseDiagram1" linkedPackageId="bf2d1dd3-1d04-4aaa-8e0d-007212c897d7" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="2bf58f90-5992-4cad-8fe7-5dd54370ce15">
+      <profileInstance Id="7e1a9412-9812-4d33-a304-e118ff7074ae" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="b4933a8a-fa3a-4a48-9bf1-f5ee00e5fe3c">
+      <profileInstance Id="ddcb5855-e282-4e68-8395-ce89a75d4615" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <artifact Id="bd380a6d-ac01-4419-9f84-78d12708e627" name="form1.cs" visibility="Protected" isAbstract="true" isLeaf="true" fileName="algorithm\form1.cs">
+        <elementDefinition Id="bd186856-78c3-4a16-9a44-6eb2cb3b4c61" />
+      </artifact>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <artifact Id="c4fafef2-66ee-4e65-a97d-0da262f4e05e" name="form1.cs" isAbstract="false" isLeaf="false" fileName="algorithm\form1.cs">
+        <elementDefinition Id="a6d4c973-4d7e-4c00-9085-0401c294c0bc" />
+      </artifact>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="bf2d1dd3-1d04-4aaa-8e0d-007212c897d7" name="ModelingProject2">
+    <elementDefinition Id="64600db6-1ca9-4c25-b6fc-94fd65c42a7a" />
+  </package>
+</useCaseModelRoot>

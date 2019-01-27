@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UMLUseCaseDiagram1">
+  <useCaseModelRootMoniker Id="0c454116-ba0f-40d5-bcc1-41958a570f43" />
+  <nestedChildShapes>
+    <artifactShape Id="98536e47-011e-429e-81e0-e9fbc3db591e" absoluteBounds="5, 1.375, 1.5, 0.5" customColor="161, 199, 231">
+      <artifactMoniker Id="bd380a6d-ac01-4419-9f84-78d12708e627" LastKnownName="form1.cs" />
+    </artifactShape>
+    <artifactShape Id="87cd3ce2-1108-486b-abf5-e609eaf673c3" absoluteBounds="2, 1.375, 1.5, 0.5" customColor="161, 199, 231">
+      <artifactMoniker Id="c4fafef2-66ee-4e65-a97d-0da262f4e05e" LastKnownName="form1.cs" />
+    </artifactShape>
+  </nestedChildShapes>
+</useCaseDiagram>
